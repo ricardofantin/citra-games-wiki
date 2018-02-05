@@ -7,3 +7,4 @@ needs_shared_font = false
 title = "0004000000141000"
 region = "all"
 release_date = "2015-02-18"
+game_type = "eshop"
